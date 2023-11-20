@@ -43,9 +43,8 @@
   </b>
 </div>
 
+<div style="margin-top: 20px;"></div> <!-- Adjust the margin-top value as needed -->
 
-</div>
-</b>
 <div style="text-align: left;">
   <b>
     <a href="MICROSOFT_LINK"><img src="https://img.shields.io/badge/-Microsoft-0078D7?style=flat&logo=Microsoft&logoColor=white"></a>
@@ -58,6 +57,7 @@
     <a href="GRAFANA_LINK"><img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white"></a>
   </b>
 </div>
+
 
 
 
