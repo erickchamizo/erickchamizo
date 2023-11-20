@@ -32,6 +32,8 @@
   
 </div>
 
+
+
 <div style="text-align: left;">
   <a href="https://www.linkedin.com/in/erick-chamizo-b93b5b106/" target="_blank">
     <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Erick Vinicius Oliveira Chamizo on LinkedIn" />
